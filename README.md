@@ -2,7 +2,7 @@
 
 ## Running SolTG in a VM
 
-Download the VM [image]() first. Password for the image/root is "4rfgt5"
+Download the VM [image](https://drive.google.com/file/d/1CuLUldD1-wPW-SGS8xSw5qsAWu7z_7Xz/view?usp=sharing) first. Password for the image/root is "4rfgt5"
 When image is ready and running:
 1. Enter `Documents/solTg_benchmarks`
 2. Execute `solTg -i bench`
