@@ -2,7 +2,7 @@
 
 ## Running SolTG in a VM
 
-Download the VM [image](https://drive.google.com/file/d/1CuLUldD1-wPW-SGS8xSw5qsAWu7z_7Xz/view?usp=sharing) first. Password for the "konst" is "4rfgt5"
+Download the VM [image](https://drive.google.com/file/d/1lJYFp505tUttvF0hOOHRemWAuoJ1-y9c/view?usp=sharing) first. Password for the "tester" is "pass"
 When image is ready and running:
 1. Enter `Documents/benchmarks_project`
 2. Execute `solTg -i bench`
@@ -11,8 +11,7 @@ When image is ready and running:
    ```mkdir test```
    ```cp -r gen_tests/**/*.t.sol ./test```
    ```rm -r gen_tests```
-   ```rm -r bench```
-4. After it call  `forge test` to check that tests work correctly
+4. After it call  `forge test` to check that tests work correctly (Currently there is one test generated faulty, division by zero)
 5. Call  `forge coverage` to see the generated coverage report
 6. To produce coverage report in HTML format call `forge coverage --report lcov` and `genhtml --branch-coverage --output cov_rep ./lcov.info`
 
