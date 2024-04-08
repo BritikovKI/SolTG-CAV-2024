@@ -31,7 +31,7 @@ SolTG works on multiple platforms, specifically it supports Linux and MacOS. Tes
 
 1. You should have an installed `docker`. For the installation instructions look into: [Mac](https://docs.docker.com/desktop/install/mac-install/), [Linux](https://docs.docker.com/desktop/install/linux-install/). Docker service should be running
 in the background, to check it in Linux call: ```service docker status```. In MacOs just make sure that the Docker Desktop program is running.
-2. Install `foundry`. For the instructions look here: [founry](https://book.getfoundry.sh/getting-started/installation)
+2. Install `foundry`. For the instructions look here: [foundry](https://book.getfoundry.sh/getting-started/installation)
 3. Make sure that you have `Python 3` and `pip3` installed.
 4. After the previous steps, to install `SolTG` simply call: ```pip3 install solTg```. This command will install `solTg` on your computer
 *NB: under some distros it is possible you'll need to run ```sudo pip3 install solTg``` to make it runnable!*
