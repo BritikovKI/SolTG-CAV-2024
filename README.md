@@ -3,7 +3,7 @@
 ## Artifact evaluation
 
 
-Download the VM [image](https://drive.google.com/file/d/1lJYFp505tUttvF0hOOHRemWAuoJ1-y9c/view?usp=sharing) first. Password for the "tester" is "pass"
+Download the VM [image](https://drive.google.com/file/d/1lJYFp505tUttvF0hOOHRemWAuoJ1-y9c/view?usp=sharing) first. Password for the "tester"/sudo is "pass"
 
 ### Reproducing general coverage numbers
 
