@@ -15,6 +15,7 @@ When image is ready and running:
   <img width="926" alt="image" src="https://github.com/BritikovKI/SolTG-CAV-2024/assets/31989062/c9d9082f-323d-4a54-b8fc-ad89bde7cded">
   
 *The results in the last line (with the name `Total`) should correspond to the results, described in the paper: 81% line coverage and 91% function coverage*
+
 4. To produce coverage report in HTML format call `forge coverage --report lcov` and `genhtml --branch-coverage --output cov_rep ./lcov.info`
 
 ### Reproducing data from the Fig.3 in the paper
